@@ -68,8 +68,3 @@ To optimize the recursive solution and prevent re-computation of already solved 
     *   **Space Complexity:** `O(N * M)` for the memoization table, plus the space for the recursion stack.
 
 ## Future Work / Related Concepts
-
-*   A separate video will be released covering the **Bottom-up (Tabulation) approach** for this problem, allowing for an iterative solution.
-*   This problem is part of a comprehensive series on **Dynamic Programming concepts**.
-*   Related problems that fall under similar DP patterns include other **Knapsack problems**, **Coin Change problems**, and **Road Cutting problems**.
-```
