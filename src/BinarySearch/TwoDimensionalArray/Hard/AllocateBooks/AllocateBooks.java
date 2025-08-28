@@ -46,7 +46,7 @@ class AllocateBooks {
 
     // Helper function used in both approaches
     private int countStudents(int[] pages, int maxPages) {
-        int students = 1;
+        int students = 1; // Because it include the last books distribution
         long pagesSum = 0;
 
         for (int page : pages) {
