@@ -1,4 +1,4 @@
-package BinarySearch.TwoDimensionalArray.Easy.SearchA2DMatrixII;
+package BinarySearch.TwoDimensionalArray.Medium.SearchA2DMatrixII;
 
 public class SearchA2DMatrixII {
 

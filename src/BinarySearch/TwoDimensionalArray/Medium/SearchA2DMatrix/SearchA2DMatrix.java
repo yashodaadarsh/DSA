@@ -1,4 +1,4 @@
-package BinarySearch.TwoDimensionalArray.Easy.SearchA2DMatrix;
+package BinarySearch.TwoDimensionalArray.Medium.SearchA2DMatrix;
 
 class SearchA2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
