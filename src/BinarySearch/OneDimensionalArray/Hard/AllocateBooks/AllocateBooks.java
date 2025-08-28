@@ -1,4 +1,4 @@
-package BinarySearch.TwoDimensionalArray.Hard.AllocateBooks;
+package BinarySearch.OneDimensionalArray.Hard.AllocateBooks;
 
 import java.util.Arrays;
 

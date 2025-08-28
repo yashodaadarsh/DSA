@@ -1,4 +1,4 @@
-package BinarySearch.OneDimensionalArray.LC_2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps;
+package BinarySearch.OneDimensionalArray.Hard.LC_2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps;
 
 class Solution {
     public int maxTotalFruits(int[][] fruits, int startPos, int k) {
