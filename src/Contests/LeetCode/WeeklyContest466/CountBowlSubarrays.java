@@ -1,4 +1,4 @@
-package Contests.WeeklyContest466;
+package Contests.LeetCode.WeeklyContest466;
 
 import java.util.Stack;
 
