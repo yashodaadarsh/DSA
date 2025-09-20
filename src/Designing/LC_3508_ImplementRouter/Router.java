@@ -1,6 +1,7 @@
 package Designing.LC_3508_ImplementRouter;
+import java.util.*;
 
-class ImplementRouter {
+class Router {
 
     private Deque<int[]> deque;
     private int limit;

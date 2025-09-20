@@ -1,6 +1,6 @@
 package POTD.LeetCode.LC_3508_ImplementRouter;
-
-class ImplementRouter {
+import java.util.*;
+class Router {
 
     private Deque<int[]> deque;
     private int limit;
