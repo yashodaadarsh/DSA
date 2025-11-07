@@ -75,3 +75,126 @@ The complexity is determined by the binary search steps multiplied by the cost o
     *   Crucially, the `check` function runs in $\mathbf{O(N)}$ time due to the efficient $O(1)$ range updates provided by the Difference Array Technique.
 
 *   **Space Complexity:** $\mathbf{O(N)}$ to store the difference array.
+
+***
+## Code ( C++ )
+
+```cpp
+class Solution {
+    using ll = long long;
+public:
+    long long maxPower(vector<int>& stations, int r, int k) {
+        int n = stations.size();
+        ll ans = 0;
+        ll low = *min_element(stations.begin(),stations.end());
+        ll high = accumulate(stations.begin(),stations.end(),0LL) + k;
+
+        while( low <= high ){
+            ll mid = ( high - low )/2 + low;
+            if( check( mid , stations , r , k ) ){
+                ans = mid;
+                low = mid + 1 ;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return ans;
+
+    }
+
+private:
+    bool check( ll tar , vector<int> stations , int r , int k ){
+        int n = stations.size();
+        vector<ll> diff(n,0);
+        for( int i = 0 ; i < n ; i++ ){
+            diff[ max(i-r,0) ] += stations[i];
+
+            if( i+r+1 < n ) 
+                diff[ i+r+1 ] -= stations[i];
+
+        }
+
+        ll sum = 0;
+
+        for( int i = 0 ; i < n ; i++ ){
+            sum += diff[i];
+            if( sum < tar ){
+                ll need = tar - sum;
+                if( need > k ) return false;
+
+                k -= need;
+                if( i+2*r+1 < n )
+                    diff[i+2*r+1] -= need;
+                sum += need;
+
+            }
+        }
+        
+        return true;
+    }
+
+
+};
+```
+***
+## Code ( Java )
+```java
+
+import java.util.Arrays;
+
+class Solution {
+    public long maxPower(int[] stations, int r, int k) {
+        int n = stations.length;
+        long ans = 0;
+        long low = Arrays.stream( stations ).min().getAsInt();
+        long high = Arrays.stream( stations ).asLongStream().sum() + k ;
+
+        while( low <= high ){
+            long mid = ( high - low )/2 + low;
+            if( check( mid , stations , r , k ) ){
+                ans = mid;
+                low = mid + 1;
+            }
+            else{
+                high = mid - 1;
+            }
+        }
+
+        return ans;
+
+    }
+    private boolean check( long tar , int[] stations , int r , long k ){
+        int n = stations.length;
+        long[] diff = new long[n];
+        for( int i = 0 ; i < n ; i++ ){
+            diff[ Math.max(0,i-r) ] += stations[i];
+            if( i+r+1 < n )
+                diff[ i+r+1 ] -= stations[i];
+        }
+
+        long sum = 0 ;
+        for( int i = 0 ; i < n ; i++ ){
+            sum += diff[i];
+            if( sum < tar ){
+                long need = tar - sum;
+                if( need > 1l*k ){
+                    return false;
+                }
+                
+                    sum += need;
+                    k = k-need;
+                    if ( i + 2 * r + 1 < n )
+                        diff[ i + 2 * r + 1 ] -= need;
+
+                }
+        
+        }
+        return true;
+    }
+}
+
+
+
+```
