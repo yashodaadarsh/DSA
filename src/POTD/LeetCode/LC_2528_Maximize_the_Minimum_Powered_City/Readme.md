@@ -232,9 +232,3 @@ class Solution {
 ```
 
 ---
-
-✅ **Now your markdown:**
-
-* Works on GitHub, Jupyter, and LeetCode.
-* Has no LaTeX math mode issues.
-* Keeps all mathematical expressions readable and consistent.
