@@ -1,4 +1,4 @@
-package POTD.LeetCode2026.LC_66_Plus_One;
+package POTD.LeetCode2026.January.LC_66_Plus_One;
 
 class PlusOne {
     public int[] plusOne(int[] digits) {
