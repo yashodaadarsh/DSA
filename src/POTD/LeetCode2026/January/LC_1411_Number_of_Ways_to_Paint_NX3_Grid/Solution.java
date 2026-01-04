@@ -1,7 +1,6 @@
 package POTD.LeetCode2026.January.LC_1411_Number_of_Ways_to_Paint_NX3_Grid;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 class Solution {
     private int MOD = (int)(1e9) + 7;
