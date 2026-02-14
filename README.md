@@ -16,3 +16,11 @@ It serves as my **revision notes** and a quick reference for revisiting concepts
 ## Repository Organization
 Problems are grouped based on **topic** for easier navigation.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
+<!---LeetCode Topics End-->
