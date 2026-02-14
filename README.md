@@ -36,6 +36,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +53,16 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Design
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
+## Segment Tree
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 <!---LeetCode Topics End-->
