@@ -83,4 +83,16 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
+## String
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
