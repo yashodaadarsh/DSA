@@ -22,6 +22,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
@@ -65,4 +66,12 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
