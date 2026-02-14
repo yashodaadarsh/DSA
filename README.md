@@ -23,11 +23,13 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -74,4 +76,8 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
