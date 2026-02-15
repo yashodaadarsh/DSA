@@ -69,6 +69,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Binary Indexed Tree
 |  |
@@ -96,13 +97,19 @@ Problems are grouped based on **topic** for easier navigation.
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
