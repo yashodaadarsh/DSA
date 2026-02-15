@@ -53,6 +53,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Prefix Sum
@@ -112,4 +115,8 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
