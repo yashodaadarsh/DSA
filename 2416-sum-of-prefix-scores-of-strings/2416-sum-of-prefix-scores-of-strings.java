@@ -43,9 +43,10 @@ class Trie{
         TreeNode crawl = root;
         for( int i = 0; i < n ; i++ ){
             char ch = word.charAt(i);
-            if( crawl.child[ch-'a'] == null ){
-                return count;
-            }
+            //No need. Since we are inserting the words in the array
+            // if( crawl.child[ch-'a'] == null ){
+            //     return count;
+            // }
             count += crawl.child[ch-'a'].count;
             crawl = crawl.child[ch-'a'];
         }
