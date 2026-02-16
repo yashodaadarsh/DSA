@@ -43,6 +43,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Prefix Sum
 |  |
@@ -122,6 +124,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Simulation
 |  |
 | ------- |
