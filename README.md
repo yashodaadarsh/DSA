@@ -43,6 +43,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -118,6 +119,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -159,6 +161,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## String Matching
 |  |
 | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
