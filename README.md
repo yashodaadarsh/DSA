@@ -70,6 +70,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -122,6 +123,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -149,6 +151,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/yashodaadarsh/DSA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 ## Counting
 |  |
 | ------- |
