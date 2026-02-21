@@ -66,6 +66,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0401-binary-watch](https://github.com/yashodaadarsh/DSA/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashodaadarsh/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Combinatorics
 |  |
 | ------- |
