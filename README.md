@@ -25,6 +25,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0062-unique-paths](https://github.com/yashodaadarsh/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/yashodaadarsh/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/yashodaadarsh/DSA/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/yashodaadarsh/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
@@ -146,6 +147,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/yashodaadarsh/DSA/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
