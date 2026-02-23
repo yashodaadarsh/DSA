@@ -17,6 +17,24 @@ class Solution {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
+        int i = 0 , j = 0;
+        while( i < m && j < n ){
+            char ch1 = text1.charAt(i);
+            char ch2 = text2.charAt(j);
+            if( ch1 == ch2 ){
+                sb.append( ch1 );
+                i++; j++;
+            }
+            else if( i+1 < m && dp[i+1][j] >= dp[i][j] ){
+                i++;
+            }
+            else{
+                j++;
+            }
+        }
+
+        System.out.println( sb.toString() );
         return dp[0][0];
         
     }
