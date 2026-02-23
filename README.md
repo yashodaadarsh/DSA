@@ -27,6 +27,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/yashodaadarsh/DSA/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/yashodaadarsh/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -43,6 +44,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0416-partition-equal-subset-sum](https://github.com/yashodaadarsh/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -180,6 +182,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/yashodaadarsh/DSA/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
 | ------- |
