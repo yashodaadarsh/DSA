@@ -30,6 +30,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/1143-longest-common-subsequence) |
@@ -146,6 +147,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/1143-longest-common-subsequence) |
