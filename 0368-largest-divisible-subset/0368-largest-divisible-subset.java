@@ -4,9 +4,9 @@ class Solution {
         int n = nums.length;
 
         int[] dp = new int[n+1];
-        int[] parent = new int[n];
+        int[] hash = new int[n];
         for( int i = 0 ; i < n ; i++ ){
-            parent[i] = i;
+            hash[i] = i;
             dp[i] = 1;
         }
 
@@ -18,7 +18,7 @@ class Solution {
                 if( nums[i] % nums[j] == 0 ){
                     if( dp[i] < 1 + dp[j] ){
                         dp[i] = 1 + dp[j];
-                        parent[i] = j;
+                        hash[i] = j;
                         if( max < dp[i] ){
                             max = dp[i];
                             ind = i;
@@ -29,9 +29,9 @@ class Solution {
         }
 
         List<Integer> res = new ArrayList<>();
-        while( ind != parent[ind] ){
+        while( ind != hash[ind] ){
             res.add( nums[ind] );
-            ind = parent[ind];
+            ind = hash[ind];
         }
         res.add( nums[ind] );
 
