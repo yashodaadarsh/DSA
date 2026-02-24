@@ -218,12 +218,14 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
@@ -234,6 +236,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
