@@ -17,16 +17,16 @@ class Solution {
         int prevBuy = 0, prevSell = 0, curBuy = 0, curSell = 0;
 
         for( int i = n-1 ; i >= 0 ; i-- ){
-            // for( int buy = 0; buy <= 1; buy++ ){
-                // if( buy == 1 ){
+            for( int buy = 0; buy <= 1; buy++ ){
+                if( buy == 1 ){
                     curBuy = Math.max( -prices[i] + prevSell, prevBuy );
-                // }
-                // else{
+                }
+                else{
                     curSell = Math.max( prices[i] + prevBuy, prevSell );
-                // }
+                }
                 prevSell = curSell;
                 prevBuy = curBuy;
-            // }
+            }
         }
 
         return prevBuy;
