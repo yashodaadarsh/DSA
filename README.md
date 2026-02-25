@@ -73,6 +73,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashodaadarsh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -108,6 +109,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0693-binary-number-with-alternating-bits](https://github.com/yashodaadarsh/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/yashodaadarsh/DSA/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
@@ -117,6 +119,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -218,6 +221,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Backtracking
 |  |
