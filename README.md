@@ -52,6 +52,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -126,6 +128,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
