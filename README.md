@@ -198,6 +198,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yashodaadarsh/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -293,8 +294,13 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yashodaadarsh/DSA/tree/master/0044-wildcard-matching) |
+| [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
 ## Enumeration
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
