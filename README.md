@@ -102,6 +102,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -203,6 +204,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0072-edit-distance](https://github.com/yashodaadarsh/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yashodaadarsh/DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/yashodaadarsh/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
