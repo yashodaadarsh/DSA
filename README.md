@@ -63,6 +63,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashodaadarsh/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
@@ -201,6 +202,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/yashodaadarsh/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yashodaadarsh/DSA/tree/master/0072-edit-distance) |
@@ -233,6 +235,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/yashodaadarsh/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
