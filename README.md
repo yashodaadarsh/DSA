@@ -174,6 +174,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/yashodaadarsh/DSA/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1903-largest-odd-number-in-string](https://github.com/yashodaadarsh/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1143-longest-common-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1903-largest-odd-number-in-string](https://github.com/yashodaadarsh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -308,6 +310,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashodaadarsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashodaadarsh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1903-largest-odd-number-in-string](https://github.com/yashodaadarsh/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
