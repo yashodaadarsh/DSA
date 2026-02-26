@@ -27,6 +27,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/yashodaadarsh/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/yashodaadarsh/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/yashodaadarsh/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashodaadarsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0001-two-sum](https://github.com/yashodaadarsh/DSA/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/yashodaadarsh/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashodaadarsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashodaadarsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -175,6 +177,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
@@ -306,5 +309,10 @@ Problems are grouped based on **topic** for easier navigation.
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
