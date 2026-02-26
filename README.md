@@ -128,6 +128,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/yashodaadarsh/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/yashodaadarsh/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -215,6 +216,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -241,6 +243,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Divide and Conquer
 |  |
 | ------- |
