@@ -139,6 +139,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/yashodaadarsh/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
@@ -198,6 +199,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0001-two-sum](https://github.com/yashodaadarsh/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/yashodaadarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -217,6 +219,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0205-isomorphic-strings](https://github.com/yashodaadarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
