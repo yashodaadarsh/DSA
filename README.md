@@ -222,6 +222,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/yashodaadarsh/DSA/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yashodaadarsh/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/yashodaadarsh/DSA/tree/master/1106-parsing-a-boolean-expression) |
@@ -284,6 +285,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/yashodaadarsh/DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/yashodaadarsh/DSA/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
