@@ -1,48 +1,42 @@
 class TreeAncestor {
-
-    private int[] parent;
-    private int n;
-    private int[][] up;
+    int[] parent;
+    int[][] up;
+    int n;
 
     public TreeAncestor(int n, int[] parent) {
-        this.parent = parent;
         this.n = n;
-        this.up = new int[n][20];
-        this.binaryLift();
-    }
-    
-    public int getKthAncestor(int node, int k) {
-        if( node == -1 || k == 0 ){
-            return node;
-        }
-        for( int i = 19 ; i >= 0 ; i-- ){
-            if( k >= (1<<i) ){
-                // Going to 2^i'th parent and finding the 2^k-i'th node
-                return getKthAncestor( up[node][i], k - (1<<i) );
-            }
-        }
-        // Don't hit. Just for closing function
-        return -1;
+        this.parent = parent;
+        this.up = new int[n][21];
+        binaryLifting();
     }
 
-    private void binaryLift(){
-
-        for( int node = 0 ; node < n ; node++ ){
+    private void binaryLifting(){
+        // storing immediate parent, i.e :- 2^0th -> 1st parent
+        for( int node = 0; node < n; node++ ){
             up[node][0] = parent[node];
         }
 
-        // 2^i the ancestor
-        for( int i = 1 ; i < 20 ; i++ ){
-            for( int node = 0 ; node < n ; node++ ){
-                // Node's 2^i-i th parent
-                int parent = up[node][i-1];
-                // Node's 2^i th parent = ( Node's i-1 th parent -> parent's 2^i-1 th node )
-                up[node][i] = ( parent == -1 ) ? -1 : up[parent][i-1];
+        for( int k = 1; k < 21; k++ ){
+            for( int node = 0; node < n; node++ ){
+                int parent = up[node][k-1];
+                // node ith parent = nodes (i-1) th parent's (i-1)th parent
+                up[node][k] = ( parent == -1 ) ? -1 : up[parent][k-1];
+            }
+        }
+    }
+    
+    public int getKthAncestor(int node, int k) {
+        if( node == -1 || k == 0  ) return node;
+        for( int i = 20; i >= 0; i-- ){
+            int i_th_parent = (1<<i);
+            if( i_th_parent <= k ){
+                // i => i_th_parent
+                return getKthAncestor( up[node][i] , k - i_th_parent );
             }
         }
 
+        return node;
     }
-
 }
 
 /**
