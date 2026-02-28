@@ -44,6 +44,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashodaadarsh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
@@ -106,6 +107,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
@@ -215,6 +217,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0214-shortest-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
