@@ -98,6 +98,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -310,6 +311,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,4 +367,12 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Graph Theory
+|  |
+| ------- |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 <!---LeetCode Topics End-->
