@@ -231,6 +231,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0214-shortest-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/yashodaadarsh/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashodaadarsh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/yashodaadarsh/DSA/tree/master/0647-palindromic-substrings) |
@@ -303,6 +304,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashodaadarsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashodaadarsh/DSA/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/yashodaadarsh/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/yashodaadarsh/DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/yashodaadarsh/DSA/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
