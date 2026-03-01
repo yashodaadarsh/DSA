@@ -103,6 +103,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/yashodaadarsh/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Trie
 |  |
 | ------- |
@@ -266,6 +269,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Simulation
 |  |
 | ------- |
@@ -383,4 +387,16 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+## Queue
+|  |
+| ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+## Sliding Window
+|  |
+| ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 <!---LeetCode Topics End-->
