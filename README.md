@@ -150,6 +150,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yashodaadarsh/DSA/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -211,6 +212,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -323,6 +325,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -332,18 +335,21 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
