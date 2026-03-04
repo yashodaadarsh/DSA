@@ -94,6 +94,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/yashodaadarsh/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -203,6 +204,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yashodaadarsh/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
