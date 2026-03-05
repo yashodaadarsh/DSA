@@ -336,6 +336,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -345,6 +346,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -395,6 +397,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Strongly Connected Component
 |  |
@@ -412,4 +415,8 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
