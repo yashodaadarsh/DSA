@@ -344,6 +344,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
@@ -357,6 +358,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0127-word-ladder](https://github.com/yashodaadarsh/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
@@ -404,6 +406,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -413,6 +416,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
@@ -444,4 +448,8 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
