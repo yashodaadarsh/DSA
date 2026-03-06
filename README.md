@@ -96,6 +96,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/yashodaadarsh/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -124,6 +125,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0300-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Bit Manipulation
@@ -207,6 +209,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yashodaadarsh/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +354,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -365,6 +369,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +412,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -448,6 +454,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
