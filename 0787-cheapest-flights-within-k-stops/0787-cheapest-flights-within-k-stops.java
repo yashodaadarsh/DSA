@@ -1,5 +1,33 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+
+        int[] prev = new int[n];
+        Arrays.fill( prev,Integer.MAX_VALUE );
+        prev[src] = 0;
+
+        for( int count = 0; count < k+1; count++ ){
+
+            int[] cur = prev.clone();
+            for( int[] edge : flights ){
+                int u = edge[0];
+                int v = edge[1];
+                int wt = edge[2];
+                if( prev[u] != Integer.MAX_VALUE && prev[u] + wt < cur[v] ){
+                    cur[v] = prev[u] + wt;
+                }
+            }
+            prev = cur;
+
+        }
+
+        return prev[dst] == Integer.MAX_VALUE ? -1 : prev[dst];
+        
+    }
+}
+
+// Using BFS
+class Approach2 {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         // We can use the simple BFS. If we check stop by stop we can update the next stop distance later with the more stops and less distance.
 
         List<List<int[]>> adj = new ArrayList<>();
