@@ -352,6 +352,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashodaadarsh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -368,6 +369,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0127-word-ladder](https://github.com/yashodaadarsh/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -430,6 +432,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0207-course-schedule](https://github.com/yashodaadarsh/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -465,6 +468,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
