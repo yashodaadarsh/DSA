@@ -61,6 +61,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashodaadarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -263,6 +264,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashodaadarsh/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashodaadarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/yashodaadarsh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -453,6 +455,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashodaadarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Monotonic Queue
 |  |
