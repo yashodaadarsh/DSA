@@ -409,6 +409,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/yashodaadarsh/DSA/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Stack
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashodaadarsh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/yashodaadarsh/DSA/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Strongly Connected Component
