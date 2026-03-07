@@ -7,6 +7,44 @@ class Solution {
         char[] arr = sb.toString().toCharArray();
         int n = arr.length;
 
+        int cnt = 0;
+        int min = Integer.MAX_VALUE;
+        int sl = s.length();
+        
+        int diff1 = 0, diff2 = 0;
+
+        int l = 0;
+        for( int r = 0; r < n; r++ ){
+            char ch = arr[r];
+
+            if( ch != ( r%2 == 0 ? '0' : '1' ) ) diff1++;
+            if( ch != ( r%2 == 0 ? '1' : '0' ) ) diff2++;
+
+            if( r >= sl ){
+                if( ch != ( l%2 == 0 ? '0' : '1' ) ) diff1--;
+                if( ch != ( l%2 == 0 ? '1' : '0' ) ) diff2--;
+                l++;
+            }
+
+            if( r >= sl-1 ){
+                min = Math.min( min, Math.min( diff1,diff2) );
+            }
+        }
+
+        return min;
+        
+    }
+}
+
+class Approach1 {
+    public int minFlips(String s) {
+
+        StringBuilder sb = new StringBuilder(s);
+        sb.append(s);
+
+        char[] arr = sb.toString().toCharArray();
+        int n = arr.length;
+
         int[] firstEven = new int[n];
         int[] firstOdd = new int[n];
 
