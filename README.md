@@ -89,6 +89,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashodaadarsh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/yashodaadarsh/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -128,6 +129,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -209,6 +211,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0063-unique-paths-ii](https://github.com/yashodaadarsh/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/yashodaadarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yashodaadarsh/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -356,6 +359,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -373,6 +377,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0210-course-schedule-ii](https://github.com/yashodaadarsh/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -424,6 +429,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -474,6 +480,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashodaadarsh/DSA/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
