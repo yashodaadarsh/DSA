@@ -166,6 +166,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yashodaadarsh/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yashodaadarsh/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -451,6 +452,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashodaadarsh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yashodaadarsh/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yashodaadarsh/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -460,6 +462,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Strongly Connected Component
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Queue
 |  |
@@ -488,6 +491,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yashodaadarsh/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -502,5 +506,6 @@ Problems are grouped based on **topic** for easier navigation.
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
