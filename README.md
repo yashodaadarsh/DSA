@@ -65,6 +65,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yashodaadarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yashodaadarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Trie
