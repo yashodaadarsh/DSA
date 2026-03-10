@@ -448,6 +448,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashodaadarsh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yashodaadarsh/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/yashodaadarsh/DSA/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -483,6 +484,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yashodaadarsh/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
