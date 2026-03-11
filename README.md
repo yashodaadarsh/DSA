@@ -442,6 +442,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/yashodaadarsh/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -464,6 +465,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yashodaadarsh/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/yashodaadarsh/DSA/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/yashodaadarsh/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2421-number-of-good-paths](https://github.com/yashodaadarsh/DSA/tree/master/2421-number-of-good-paths) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Strongly Connected Component
@@ -511,6 +513,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashodaadarsh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashodaadarsh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/yashodaadarsh/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
