@@ -50,6 +50,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/yashodaadarsh/DSA/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashodaadarsh/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0931-minimum-falling-path-sum](https://github.com/yashodaadarsh/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/yashodaadarsh/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/yashodaadarsh/DSA/tree/master/1048-longest-string-chain) |
@@ -149,6 +150,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashodaadarsh/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashodaadarsh/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashodaadarsh/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashodaadarsh/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0868-binary-gap](https://github.com/yashodaadarsh/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashodaadarsh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -182,6 +184,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Bitmask
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashodaadarsh/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Design
@@ -393,6 +396,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashodaadarsh/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashodaadarsh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -460,6 +464,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0785-is-graph-bipartite](https://github.com/yashodaadarsh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashodaadarsh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/yashodaadarsh/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashodaadarsh/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/yashodaadarsh/DSA/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashodaadarsh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
