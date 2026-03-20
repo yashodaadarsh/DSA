@@ -117,6 +117,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yashodaadarsh/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2421-number-of-good-paths](https://github.com/yashodaadarsh/DSA/tree/master/2421-number-of-good-paths) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1463-cherry-pickup-ii](https://github.com/yashodaadarsh/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
