@@ -118,6 +118,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/yashodaadarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashodaadarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yashodaadarsh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yashodaadarsh/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashodaadarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashodaadarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashodaadarsh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashodaadarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
