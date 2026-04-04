@@ -292,6 +292,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashodaadarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/yashodaadarsh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/yashodaadarsh/DSA/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/yashodaadarsh/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashodaadarsh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/yashodaadarsh/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/yashodaadarsh/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -324,6 +325,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0067-add-binary](https://github.com/yashodaadarsh/DSA/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashodaadarsh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yashodaadarsh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/yashodaadarsh/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Divide and Conquer
 |  |
 | ------- |
