@@ -120,6 +120,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3548-equal-sum-grid-partition-ii](https://github.com/yashodaadarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashodaadarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yashodaadarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Two Pointers
 |  |
@@ -255,6 +256,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashodaadarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/yashodaadarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashodaadarsh/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yashodaadarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
