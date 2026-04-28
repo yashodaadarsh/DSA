@@ -80,6 +80,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashodaadarsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yashodaadarsh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashodaadarsh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yashodaadarsh/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/yashodaadarsh/DSA/tree/master/0312-burst-balloons) |
@@ -168,6 +169,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/yashodaadarsh/DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -186,6 +188,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -202,11 +205,13 @@ Problems are grouped based on **topic** for easier navigation.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Math
@@ -332,6 +337,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/yashodaadarsh/DSA/tree/master/0190-reverse-bits) |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0761-special-binary-string](https://github.com/yashodaadarsh/DSA/tree/master/0761-special-binary-string) |
 ## Counting
 |  |
@@ -459,6 +465,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0451-sort-characters-by-frequency](https://github.com/yashodaadarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/yashodaadarsh/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
@@ -542,4 +549,8 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/yashodaadarsh/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashodaadarsh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
