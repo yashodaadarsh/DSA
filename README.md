@@ -92,6 +92,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0494-target-sum](https://github.com/yashodaadarsh/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashodaadarsh/DSA/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/yashodaadarsh/DSA/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashodaadarsh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0845-longest-mountain-in-array](https://github.com/yashodaadarsh/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -191,6 +192,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
+| [0699-falling-squares](https://github.com/yashodaadarsh/DSA/tree/master/0699-falling-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -217,6 +219,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/yashodaadarsh/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/yashodaadarsh/DSA/tree/master/0699-falling-squares) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Math
 |  |
