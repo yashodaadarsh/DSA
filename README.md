@@ -193,6 +193,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0699-falling-squares](https://github.com/yashodaadarsh/DSA/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/yashodaadarsh/DSA/tree/master/0715-range-module) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -204,6 +205,7 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0715-range-module](https://github.com/yashodaadarsh/DSA/tree/master/0715-range-module) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Binary Indexed Tree
@@ -220,6 +222,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0406-queue-reconstruction-by-height](https://github.com/yashodaadarsh/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/yashodaadarsh/DSA/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/yashodaadarsh/DSA/tree/master/0715-range-module) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yashodaadarsh/DSA/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Math
 |  |
