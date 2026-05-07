@@ -67,6 +67,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yashodaadarsh/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/yashodaadarsh/DSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yashodaadarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3660-jump-game-ix](https://github.com/yashodaadarsh/DSA/tree/master/3660-jump-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [3548-equal-sum-grid-partition-ii](https://github.com/yashodaadarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/yashodaadarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashodaadarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3660-jump-game-ix](https://github.com/yashodaadarsh/DSA/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yashodaadarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/yashodaadarsh/DSA/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Two Pointers
