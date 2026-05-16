@@ -80,6 +80,7 @@ Problems are grouped based on **topic** for easier navigation.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashodaadarsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashodaadarsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yashodaadarsh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashodaadarsh/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashodaadarsh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -144,6 +145,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashodaadarsh/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yashodaadarsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/yashodaadarsh/DSA/tree/master/0778-swim-in-rising-water) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
