@@ -208,6 +208,7 @@ Problems are grouped based on **topic** for easier navigation.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashodaadarsh/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0715-range-module](https://github.com/yashodaadarsh/DSA/tree/master/0715-range-module) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/yashodaadarsh/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -263,6 +264,7 @@ Problems are grouped based on **topic** for easier navigation.
 | ------- |
 | [0001-two-sum](https://github.com/yashodaadarsh/DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/yashodaadarsh/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/yashodaadarsh/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/yashodaadarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashodaadarsh/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/yashodaadarsh/DSA/tree/master/0242-valid-anagram) |
@@ -567,4 +569,12 @@ Problems are grouped based on **topic** for easier navigation.
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yashodaadarsh/DSA/tree/master/0218-the-skyline-problem) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashodaadarsh/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashodaadarsh/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
